@@ -1,6 +1,6 @@
 # myapp
 
-This is my first Flutter app. It generates cool-sounding names, such as "newstay", "lightstream", "mainbrake", or "graypine". Users can ask for the next name, favorite the current one, and review the list of favorite names on a separate page. The app is responsive for different screen sizes.
+This is my first Flutter app. It generates cool-sounding names, such as "newstay", "lightstream", "mainbrake", or "graypine". Users can ask for the next name, favourite the current one as well as the previous ones, review the list of favourite names and delete favourites. The app is responsive for different screen sizes.
 
-This is how it looks like:
-![Namer app](home.png)
+This is how the app looks like:
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
